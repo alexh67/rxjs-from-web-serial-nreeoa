@@ -1,0 +1,14 @@
+{
+  "name": "rxjs",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@rxjs-ninja/rxjs-utility": "^5.1.2",
+    "@types/w3c-web-serial": "^1.0.0",
+    "autoprefixer": "^10.2.4",
+    "postcss": "^8.2.4",
+    "rxjs": "^6.6.3",
+    "tailwindcss": "^2.0.2"
+  }
+  
+}
